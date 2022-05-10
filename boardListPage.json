@@ -1,0 +1,20 @@
+{
+  "boardTitle": "input[class='boardDetail_title']",
+  "boardOptions": "div[class='boardDetail_info'] div[class='dropdown']",
+  "deleteBoard": "div[class='boardDetail_info'] span[class='delete']",
+  "copyBoardProp": "div[class='boardDetail_info'] span:nth-of-type(2)",
+  "createList": "h3[class='CreateList_title']",
+  "nameList": "input[class='CreateList_input']",
+  "saveListBtn": "div[class='CreateList_options'] > button[class='Button']",
+  "cancelListBtn": "div[class='CreateList_options'] > svg[class='Cancel']",
+  "nameListEdit": "input[class='Input taskTitle']",
+  "listOptions": "div[class='List'] svg[class='options']",
+  "deleteList": "div[class='List'] span[class='delete']",
+  "copyListProp": "div[class='List'] span:nth-of-type(2)",
+  "createTask": "h5[class='List_addTask']",
+  "taskTitle": "textarea[data-id='newTaskTitle']",
+  "addTask": "div[class='List_newTaskOptions'] > button[class='Button']",
+  "cancelTaskBtn": "div[class='List_newTaskOptions'] > svg[class='Cancel']",
+  "taskCheckBox": "div[class='container'] > input[type='checkbox']",
+  "taskBtn": "div[class='Task']"
+}

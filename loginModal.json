@@ -1,7 +1,7 @@
 {
-  "emailInput": "[id='loginEmail']",
-  "passInput": "[id='loginPassword']",
-  "loginButton": "[class='LoginModule_buttons'] > button",
-  "signUpButton": "[data-cy='signUp']",
-  "closeButton": "svg[class='Cancel']"
+  "emailInput": "input[id='loginEmail']",
+  "passInput": "input[id='loginPassword']",
+  "logInBtn": "div[class='LoginModule_buttons'] > button[class='Button']",
+  "signUpBtn": "a[data-cy='signUp']",
+  "closeBtn": "div[class='LoginModule_exit'] > svg[class='Cancel']"
 }

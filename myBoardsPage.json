@@ -1,0 +1,8 @@
+{
+  "newBoard": "div[id='new-board']",
+  "boardName": "input[class='board_addBoard']",
+  "saveBtn": "div[class='board_options'] > button[class='Button']",
+  "cancelBtn": "div[class='board_options'] > svg[class='Cancel']",
+  "starBoard": "svg[class='Star']",
+  "board": "div[class='board_item']"
+}

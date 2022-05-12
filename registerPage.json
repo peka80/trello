@@ -1,8 +1,8 @@
 {
   "emailInput": "input[id='signupEmail']",
   "passInput": "input[id='signupPassword']",
-  "sendEmailCheck": "input[class='checkmark']",
+  "sendEmailInput": "input[class='checkmark']",
   "signUpBtn": "div[class='LoginModule_buttons'] > button[class='Button']",
-  "loginBtn": "a[data-cy='logIn']",
-  "closeBtn": "div[class='LoginModule_exit'] > svg[class='Cancel']"
+  "loginAnchor": "a[data-cy='logIn']",
+  "cancelBtn": "div[class='LoginModule_exit'] > svg[class='Cancel']"
 }

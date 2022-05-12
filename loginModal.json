@@ -2,6 +2,6 @@
   "emailInput": "input[id='loginEmail']",
   "passInput": "input[id='loginPassword']",
   "logInBtn": "div[class='LoginModule_buttons'] > button[class='Button']",
-  "signUpBtn": "a[data-cy='signUp']",
-  "closeBtn": "div[class='LoginModule_exit'] > svg[class='Cancel']"
+  "signUpAnchor": "a[data-cy='signUp']",
+  "cancelBtn": "div[class='LoginModule_exit'] > svg[class='Cancel']"
 }

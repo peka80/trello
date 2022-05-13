@@ -1,0 +1,13 @@
+{
+  "taskTitleEditInput": "div[class='TaskModule'] > input:nth-of-type(1)",
+  "taskDescriptParagraph": "p[class='TaskModule_description']",
+  "taskTextarea": "div[class='TaskModule'] > textarea",
+  "saveBtn": "div[class='TaskModule_options'] > button",
+  "cancelSvg": "div[class='TaskModule_options'] > svg",
+  "dueDateInput": "input[class='overdue(currentTask)']",
+  "addImageDiv": "div[class='dropzone-custom-content']",
+  "taskOptionSvg": "div[class='TaskModule_exit'] svg[class='options']",
+  "closeTaskModalSpan": "div[class='TaskModule_exit'] span:nth-child(1)",
+  "copyTaskPropSpan": "div[class='TaskModule_exit'] span:nth-child(2)",
+  "deleteTaskSpan": "div[class='TaskModule_exit'] span[class='delete']"
+}

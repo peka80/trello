@@ -1,0 +1,20 @@
+{
+  "boardTitleInput": "input[class='boardDetail_title']",
+  "boardOptionsDiv": "div[class='boardDetail_info'] div[class='dropdown']",
+  "deleteBoardSpan": "div[class='boardDetail_info'] span[class='delete']",
+  "copyBoardPropSpan": "div[class='boardDetail_info'] span:nth-of-type(2)",
+  "createListDiv": "div[class='CreateList']",
+  "nameListInput": "input[class='CreateList_input']",
+  "saveListBtn": "div[class='CreateList_options'] > button[class='Button']",
+  "cancelListBtn": "div[class='CreateList_options'] > svg[class='Cancel']",
+  "nameListEditInput": "input[class='Input taskTitle']",
+  "listOptionsDiv": "div[class='List'] svg[class='options']",
+  "deleteListSpan": "div[class='List'] span[class='delete']",
+  "copyListPropSpan": "div[class='List'] span:nth-of-type(2)",
+  "createTaskH5": "h5[class='List_addTask']",
+  "taskTitleTextarea": "textarea[data-id='newTaskTitle']",
+  "addTaskBtn": "div[class='List_newTaskOptions'] > button[class='Button']",
+  "cancelTaskSvg": "div[class='List_newTaskOptions'] > svg[class='Cancel']",
+  "taskCheckbox": "div[class='container'] > input[type='checkbox']",
+  "taskDiv": "div[class='Task']"
+}

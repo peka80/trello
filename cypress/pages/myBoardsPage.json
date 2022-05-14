@@ -1,5 +1,5 @@
 {
-  "newBoardDiv": "div[id='new-board']",
+  "newBoardDiv": "div[id='new-board'] h1",
   "boardNameInput": "input[class='board_addBoard']",
   "saveBtn": "div[class='board_options'] > button[class='Button']",
   "cancelBtn": "div[class='board_options'] > svg[class='Cancel']",

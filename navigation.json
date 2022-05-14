@@ -1,4 +1,0 @@
-{
-  "loginBtn": "[data-name='Layer 1']",
-  "myBoardsBtn": "nav[class='Nav'] > div:nth-of-type(1)"
-}
